@@ -5,7 +5,7 @@ function forLoop(arr){
     } else {
       arr[i] = `I am ${i} strange loops.`;
     }
-    arr[i] 
+    return arr[i] 
   }
 }
 
